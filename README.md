@@ -40,8 +40,9 @@ The **House Price Analysis** project leverages Python to analyze and visualize h
 
 
 5. **Year Built vs. Price (Line Plot)**
-   
-![Uploading screenshot5.PNG…]()
+   ![screenshot5](https://github.com/user-attachments/assets/a6117e86-7ce1-49ee-9f6b-de6589558d3e)
+
+
 
 ---
 
