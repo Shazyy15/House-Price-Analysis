@@ -76,9 +76,9 @@ The dataset house_price_data.csv contains the following columns:
 - house_price_data.csv: Sample dataset containing 50 rows of house data.
 
 ## 🎨 Future Enhancements
-Implement predictive modeling to forecast house prices based on historical data.
-Add geospatial analysis to better visualize house prices across different geographic regions.
-Explore advanced regression techniques for deeper price prediction insights.
+- Implement predictive modeling to forecast house prices based on historical data.
+- Add geospatial analysis to better visualize house prices across different geographic regions.
+- Explore advanced regression techniques for deeper price prediction insights.
 
 ## 🤝 Contributions
 Contributions are welcome! If you'd like to contribute, feel free to submit a pull request or open an issue.
